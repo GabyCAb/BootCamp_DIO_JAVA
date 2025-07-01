@@ -5,7 +5,7 @@ public class Est_Condicionais {
         java.util.Scanner scanner = new java.util.Scanner(System.in);
 
 // Parte 1 - If, Else If, Else
-/*
+
         System.out.println("Digite seu nome:");
         String nome = scanner.nextLine();
         System.out.println("Digite sua idade:");
@@ -26,10 +26,9 @@ public class Est_Condicionais {
         System.out.println(message);
 
         System.out.println("Fim da execução da parte 1.");
-*/
+
 
 // parte 2 - Switch Case
-/*
         System.out.println("Digite um número de 1 a 7:");
         int option = scanner.nextInt();
 
@@ -50,7 +49,6 @@ public class Est_Condicionais {
             default -> System.out.println("Opção inválida.");
         }
         System.out.println("Fim da execução da parte 2.");
-*/
 
 // Parte 3 - Repetição for
 
@@ -72,7 +70,7 @@ public class Est_Condicionais {
             // imprime numeros impares de 0 a 10
         }
 
-        
+
 
     }
 }
