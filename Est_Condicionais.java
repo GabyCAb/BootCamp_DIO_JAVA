@@ -3,7 +3,7 @@ public class Est_Condicionais {
 
     public static void main(String[] args) {
         java.util.Scanner scanner = new java.util.Scanner(System.in);
-/*
+
 // Parte 1 - If, Else If, Else
 
         System.out.println("Digite seu nome:");
@@ -70,7 +70,7 @@ public class Est_Condicionais {
             // imprime numeros impares de 0 a 10
         }
         System.out.println("Fim da execução da parte 3.");
-*/
+
 
 //Parte 4 - while e do while
         String name = "";
